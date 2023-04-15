@@ -159,6 +159,10 @@ a {
   text-decoration: none;
 }
 
+.text-secondary {
+  color: #ff652f;
+}
+
 header {
   position: fixed;
   width: 100%;
