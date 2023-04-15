@@ -1,0 +1,12 @@
+$primary-color: #272727;
+$secondary-color: #ff652f;
+
+html { 
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
